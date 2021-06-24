@@ -1,0 +1,7 @@
+{
+  "item.examplemod.test_item": "test item!",
+  "item.examplemod.wood_bat": "Bat",
+  "item.examplemod.iron_bat": "Iron Bat",
+  "item.examplemod.gold_bat": "Gold Bat",
+  "block.examplemod.test_block": "test block"
+}
